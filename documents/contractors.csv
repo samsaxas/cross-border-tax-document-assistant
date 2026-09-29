@@ -1,0 +1,11 @@
+contractor_id,name,country,us_person,tin,address
+1,Aarav Novak,India,False,GFTSX2424G,
+2,Sofia Nair,Singapore,False,S7374122B,
+3,Marcus Nair,India,False,NZKPV6925D,
+4,Priya Okafor,Singapore,False,S5528972J,
+5,Aarav Okafor,United Kingdom,False,61856 94259,
+6,Lucas Okafor,Japan,False,7252 8668 9669,
+7,Noah Sharma,United States,True,987-73-9797,"4471 Cedar Blvd, Columbus, OH 43215"
+8,Kenji Rossi,United States,True,920-84-1053,"4415 Elm St, Austin, TX 78704"
+9,Noah Patel,United States,True,980-79-9317,"3358 Oak St, Portland, OR 97205"
+10,Liam Kim,United States,True,999-86-1009,"5410 Lakeview Dr, Columbus, OH 43215"

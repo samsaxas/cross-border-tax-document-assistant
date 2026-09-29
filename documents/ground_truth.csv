@@ -1,0 +1,52 @@
+file,doc_type,entity_id,counterparty,invoice_number,date,currency,total_amount,anomaly,note
+invoice_kestrel-cloud-services_KCS-2025-0103.pdf,invoice,1,Kestrel Cloud Services,KCS-2025-0103,2025-06-07,INR,206019.06,none,
+invoice_kestrel-cloud-services_KCS-2025-0107.pdf,invoice,1,Kestrel Cloud Services,KCS-2025-0107,2025-09-30,INR,202539.29,none,
+invoice_pinecrest-marketing-pte-ltd_PCM-2025-0102.pdf,invoice,4,Pinecrest Marketing Pte Ltd,PCM-2025-0102,2025-11-07,SGD,3811.02,none,
+invoice_vantor-it-solutions_VIT-2025-0103.pdf,invoice,2,Vantor IT Solutions,VIT-2025-0103,2025-07-11,JPY,504243.0,none,
+invoice_tamarind-legal-llp_TLL-2025-0102.pdf,invoice,1,Tamarind Legal LLP,TLL-2025-0102,2025-01-11,INR,208609.86,none,
+invoice_kestrel-cloud-services_KCS-2025-0108.pdf,invoice,2,Kestrel Cloud Services,KCS-2025-0108,2025-01-31,INR,196535.17,none,
+invoice_kestrel-cloud-services_KCS-2025-0110.pdf,invoice,3,Kestrel Cloud Services,KCS-2025-0110,2025-09-06,INR,172705.49,none,
+invoice_tamarind-legal-llp_TLL-2025-0106.pdf,invoice,4,Tamarind Legal LLP,TLL-2025-0106,2025-04-08,INR,262139.78,none,
+invoice_lumora-analytics-ltd_LUM-2025-0104.pdf,invoice,4,Lumora Analytics Ltd,LUM-2025-0104,2025-01-28,GBP,3114.66,none,
+invoice_vantor-it-solutions_VIT-2025-0106.pdf,invoice,4,Vantor IT Solutions,VIT-2025-0106,2025-02-25,JPY,566892.0,none,
+invoice_tamarind-legal-llp_TLL-2025-0110.pdf,invoice,4,Tamarind Legal LLP,TLL-2025-0110,2025-08-25,INR,217211.14,none,
+invoice_kestrel-cloud-services_KCS-2025-0111.pdf,invoice,1,Kestrel Cloud Services,KCS-2025-0111,2025-05-02,INR,211029.29,none,
+invoice_tamarind-legal-llp_TLL-2025-0114.pdf,invoice,4,Tamarind Legal LLP,TLL-2025-0114,2025-03-26,INR,268975.89,none,
+invoice_brightwell-staffing-inc_BWS-2025-0104.pdf,invoice,3,Brightwell Staffing Inc.,BWS-2025-0104,2025-10-12,USD,3368.07,none,
+invoice_lumora-analytics-ltd_LUM-2025-0106.pdf,invoice,2,Lumora Analytics Ltd,LUM-2025-0106,2025-10-24,GBP,3649.96,none,
+invoice_kestrel-cloud-services_KCS-2025-0112.pdf,invoice,3,Kestrel Cloud Services,KCS-2025-0112,2025-09-15,INR,189671.86,none,
+invoice_brightwell-staffing-inc_BWS-2025-0106.pdf,invoice,1,Brightwell Staffing Inc.,BWS-2025-0106,2025-02-04,USD,3134.0,none,
+invoice_pinecrest-marketing-pte-ltd_PCM-2025-0104.pdf,invoice,1,Pinecrest Marketing Pte Ltd,PCM-2025-0104,2025-01-21,SGD,4197.07,none,
+invoice_lumora-analytics-ltd_LUM-2025-0108.pdf,invoice,3,Lumora Analytics Ltd,LUM-2025-0108,2025-06-10,GBP,3362.94,none,
+invoice_vantor-it-solutions_VIT-2025-0109.pdf,invoice,2,Vantor IT Solutions,VIT-2025-0109,2025-02-07,JPY,513327.0,none,
+invoice_kestrel-cloud-services_KCS-2025-0114.pdf,invoice,1,Kestrel Cloud Services,KCS-2025-0114,2025-03-09,INR,185326.6,none,
+invoice_lumora-analytics-ltd_LUM-2025-0110.pdf,invoice,3,Lumora Analytics Ltd,LUM-2025-0110,2025-10-06,GBP,3140.66,none,
+invoice_vantor-it-solutions_VIT-2025-0112.pdf,invoice,1,Vantor IT Solutions,VIT-2025-0112,2025-02-23,JPY,587354.0,none,
+invoice_vantor-it-solutions_VIT-2025-0114.pdf,invoice,1,Vantor IT Solutions,VIT-2025-0114,2025-11-06,JPY,484486.0,none,
+invoice_lumora-analytics-ltd_LUM-2025-0110_resend1.pdf,invoice,3,Lumora Analytics Ltd,LUM-2025-0110,2025-11-21,GBP,3140.66,duplicate_invoice,
+invoice_lumora-analytics-ltd_LUM-2025-0104_resend2.pdf,invoice,4,Lumora Analytics Ltd,LUM-2025-0104,2025-01-27,GBP,3114.66,duplicate_invoice,
+invoice_kestrel-cloud-services_KCS-2025-0115.pdf,invoice,1,Kestrel Cloud Services,KCS-2025-0115,2025-06-20,INR,1680628.23,unusual_amount,
+invoice_pinecrest-marketing-pte-ltd_PCM-2025-0105.pdf,invoice,4,Pinecrest Marketing Pte Ltd,PCM-2025-0105,2025-08-07,SGD,33798.87,unusual_amount,
+invoice_pinecrest-marketing-pte-ltd_PCM-2025-0106.pdf,invoice,2,Pinecrest Marketing Pte Ltd,,2025-01-19,SGD,4374.37,missing_field,invoice_number
+invoice_tamarind-legal-llp_TLL-2025-0115.pdf,invoice,4,Tamarind Legal LLP,TLL-2025-0115,,INR,230796.4,missing_field,date
+invoice_vantor-it-solutions_VIT-2025-0115.pdf,invoice,2,Vantor IT Solutions,VIT-2025-0115,2025-02-22,JPY,,missing_field,total_amount
+statement_halden-rowe-advisory-inc_acct1.pdf,bank_statement,1,Northgate Bank plc,,2025-03-25,GBP,10346.31,none,country=United Kingdom;account_last4=3878;max_balance_usd=13139.81
+statement_halden-rowe-advisory-inc_acct2.pdf,bank_statement,1,Crestline Bank of India,,2025-06-26,INR,609524.39,none,country=India;account_last4=7119;max_balance_usd=7314.29
+statement_halden-rowe-advisory-inc_acct3.pdf,bank_statement,1,Sakuragawa Bank,,2025-08-15,JPY,1319724.47,none,country=Japan;account_last4=7618;max_balance_usd=8842.15
+statement_halden-rowe-analytics-llc_acct1.pdf,bank_statement,2,Northgate Bank plc,,2025-10-14,GBP,2437.34,none,country=United Kingdom;account_last4=8702;max_balance_usd=3095.42
+statement_halden-rowe-analytics-llc_acct2.pdf,bank_statement,2,Merlion Commercial Bank,,2025-01-11,SGD,5551.65,none,country=Singapore;account_last4=9569;max_balance_usd=4108.22
+statement_halden-digital-services-inc_acct1.pdf,bank_statement,3,Rheinland Handelsbank AG,,2025-05-23,EUR,12224.19,none,country=Germany;account_last4=6211;max_balance_usd=13202.13
+statement_halden-digital-services-inc_acct2.pdf,bank_statement,3,Merlion Commercial Bank,,2025-02-08,SGD,19245.23,none,country=Singapore;account_last4=3249;max_balance_usd=14241.47
+statement_rowe-capital-partners-llc_acct1.pdf,bank_statement,4,Sakuragawa Bank,,2025-01-15,JPY,284881.76,none,country=Japan;account_last4=5511;max_balance_usd=1908.71
+statement_rowe-capital-partners-llc_acct2.pdf,bank_statement,4,Rheinland Handelsbank AG,,2025-04-05,EUR,790.6,none,country=Germany;account_last4=8779;max_balance_usd=853.85
+statement_rowe-capital-partners-llc_acct3.pdf,bank_statement,4,Northgate Bank plc,,2025-02-13,GBP,1940.26,none,country=United Kingdom;account_last4=4978;max_balance_usd=2464.13
+w8ben_aarav-novak.pdf,w8ben,,Aarav Novak,,,,,none,contractor_id=1
+w8ben_sofia-nair.pdf,w8ben,,Sofia Nair,,,,,none,contractor_id=2
+w8ben_marcus-nair.pdf,w8ben,,Marcus Nair,,,,,none,contractor_id=3
+w8ben_priya-okafor.pdf,w8ben,,Priya Okafor,,,,,missing_field,foreign_tin missing
+w8ben_aarav-okafor.pdf,w8ben,,Aarav Okafor,,,,,none,contractor_id=5
+w8ben_lucas-okafor.pdf,w8ben,,Lucas Okafor,,,,,none,contractor_id=6
+form1099nec_noah-sharma.pdf,1099_nec,3,Noah Sharma,,2025-12-31,USD,37545.14,none,contractor_id=7
+form1099nec_kenji-rossi.pdf,1099_nec,1,Kenji Rossi,,2025-12-31,USD,4564.44,none,contractor_id=8
+form1099nec_noah-patel.pdf,1099_nec,3,Noah Patel,,2025-12-31,USD,27586.89,none,contractor_id=9
+form1099nec_liam-kim.pdf,1099_nec,3,Liam Kim,,2025-12-31,USD,20883.6,none,contractor_id=10
