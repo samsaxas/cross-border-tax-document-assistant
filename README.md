@@ -158,4 +158,4 @@ Output is a review table where flagged rows can be inspected manually.
 ## Author
 
 **Samriddhi Saxena**
-[LinkedIn](#) · [GitHub](#) · samriddhisaxena3101@gmail.com
+samriddhisaxena3101@gmail.com
